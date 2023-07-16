@@ -32,7 +32,7 @@ Listed as [security monitoring tool](https://docs.microsoft.com/en-us/azure/arch
 
 ### Azure Governance Visualizer Accelerator
 
-* The [Azure Governance Visualizer Accelerator](https://github.com/Azure/Azure-Governance-Visualizer-Accelerator) provides an easy and fast deployment process that automates the creation and publishing of AzGovViz to an Azure Web Application and provides automation to configuring the pre-requisites for AzGovViz.
+The [Azure Governance Visualizer Accelerator](https://github.com/Azure/Azure-Governance-Visualizer-Accelerator) provides an easy and fast deployment process that automates the creation and publishing of AzGovViz to an Azure Web Application and provides automation to configuring the pre-requisites for AzGovViz.
 
 ### ChatGPT
 
