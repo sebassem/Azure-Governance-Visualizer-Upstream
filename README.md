@@ -350,6 +350,8 @@ VMConnection
 &#x1F4A1; Although 30 minutes of troubleshooting can save you 5 minutes reading the documentation :) ..
 Check the detailed __[Setup Guide](setup.md)__
 
+- You can leverage the [Azure Governance Visualizer Accelerator](https://github.com/Azure/Azure-Governance-Visualizer-Accelerator) to automate the deployment process.
+
 ## Technical documentation
 
 ### Permissions overview
